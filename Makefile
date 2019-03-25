@@ -1,6 +1,6 @@
 # names
 
-nl := lib_emulator_flash
+nl := lib_frame
 
 # dependencies
 
