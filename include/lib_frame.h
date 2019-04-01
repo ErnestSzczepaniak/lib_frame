@@ -1,5 +1,5 @@
-#ifndef _frame_h
-#define _frame_h
+#ifndef _lib_frame_h
+#define _lib_frame_h
 
 #include "string.h"
 
